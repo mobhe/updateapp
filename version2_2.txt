@@ -1,1 +1,4 @@
-{"version_code":13,"content":"Version 2.2 <p>New features:</p><li>Added feature A</li><li>Added feature B</li><li>Added feature C</li><li>Added feature C</li><li>Added feature D</li><li>Added feature E</li><li>Added feature F</li><li>Added feature G</li><li>Added feature H</li><li>Added feature I</li>"}
+{"version_code":13,
+"content":"Version 2.2 <p>New features:
+</p><li>Redesigned UI and landing page</li><li>Easy way to invite your own doctors</li><li>Ability to call your doctor from the landing page</li>
+<li>Deleting 'Home Visit' section</li><li>Compare quotes from multiple labs</li><li>Ability to track all requests</li>"}
